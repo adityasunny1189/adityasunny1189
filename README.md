@@ -27,7 +27,7 @@ Programming Language
 Flask and React based Blogging Website
   
 #### 📫 How to reach me: ...
-Linkedin Badge Gmail Badge
+letconnect.co
 <!--
 **adityasunny1189/adityasunny1189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
