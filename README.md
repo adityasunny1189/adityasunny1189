@@ -1,7 +1,6 @@
-### Hi there 
-### Hi, this is Aditya! 👋
+### Hi, this is Aditya! https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif
 
-I am a second year Information Science student at Siddaganga Institute of Technology. My field of Interest are 
+I am a second year Information Science student at Siddaganga Institute of Technology. 
 
 ### 🌱 I’m currently learning ...
 Flask
