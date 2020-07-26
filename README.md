@@ -1,26 +1,25 @@
-### Hi, this is Aditya! ![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+<h2> <strong>Hi, this is Aditya!</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I am a second year Information Science student at Siddaganga Institute of Technology. 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+I am a second year **Information Science** student at **Siddaganga Institute of Technology**. 
 
 ### 🌱 I’m currently learning ...                                                         
   Flask
   React js
 
 ### 💬 Ask me about ...
-1. Front-end development using React.js
-2. Backend development using Python Flask
-3. Creating scalable cloud architecture using AWS
-4. Solving Data structure and algorithm questions in C++
+1. Front-end development using **React.js**
+2. Backend development using **Python Flask**
+3. Creating scalable cloud architecture using **AWS**
+4. Solving Data structure and algorithm questions in **C++**
   
 ### 🔭 I’m currently working on ...
-Flask and React based Blogging Website
+**Flask** and **React** based Blogging Website
 
 ### 📫 How to reach me: ...
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pathak-a26aa1173/)](https://www.linkedin.com/in/aditya-pathak-a26aa1173/)
 [![Gmail Badge](https://img.shields.io/badge/-Aditya-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityapathak1189@gmail.com)](mailto:adityapathak1189@gmail.com)
 
-![](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
-⭐️ From [adityasunny1189](https://github.com/adityasunny1189)
 <!--
 **adityasunny1189/adityasunny1189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
