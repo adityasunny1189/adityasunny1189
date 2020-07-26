@@ -4,8 +4,7 @@
 I am a second year **Information Science** student at **Siddaganga Institute of Technology**. 
 
 ### 🌱 I’m currently learning ...                                                         
-  Flask
-  React js
+  Machine Learning
 
 ### 💬 Ask me about ...
 1. Front-end development using **React.js**
