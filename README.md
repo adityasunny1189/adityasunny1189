@@ -1,9 +1,8 @@
 ### Hi, this is Aditya! ![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
-
 I am a second year Information Science student at Siddaganga Institute of Technology. 
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...                                                         
   Flask
   React js
 
@@ -20,6 +19,8 @@ Flask and React based Blogging Website
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pathak-a26aa1173/)](https://www.linkedin.com/in/aditya-pathak-a26aa1173/)
 [![Gmail Badge](https://img.shields.io/badge/-Aditya-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityapathak1189@gmail.com)](mailto:adityapathak1189@gmail.com)
 
+![](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+⭐️ From [adityasunny1189](https://github.com/adityasunny1189)
 <!--
 **adityasunny1189/adityasunny1189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
