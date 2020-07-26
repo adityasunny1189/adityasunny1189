@@ -1,4 +1,4 @@
-### Hi, this is Aditya! ![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+### Hi, this is Aditya! ![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif width="30px")
 
 
 I am a second year Information Science student at Siddaganga Institute of Technology. 
@@ -17,7 +17,7 @@ I am a second year Information Science student at Siddaganga Institute of Techno
 Flask and React based Blogging Website
 
 ### 📫 How to reach me: ...
-[![Linkedin Badge](https://img.shields.io/badge/-aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pathak-a26aa1173/)](https://www.linkedin.com/in/aditya-pathak-a26aa1173/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya Pathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pathak-a26aa1173/)](https://www.linkedin.com/in/aditya-pathak-a26aa1173/)
 [![Gmail Badge](https://img.shields.io/badge/-adityapathak1189@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityapathak1189@gmail.com)](mailto:adityapathak1189@gmail.com)
 
 <!--
