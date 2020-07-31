@@ -33,7 +33,8 @@ I am a second year Information Science student at Siddaganga Institute of Techno
 2. Backend development using **Python Flask**
 3. Creating scalable cloud architecture using **AWS**
 4. Solving Data structure and algorithm questions in **C++**
-  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasunny1189&theme=tokyonight" />
+
 ### 🔭 I’m currently working on ...
 **Flask** and **React** based Blogging Website
 
