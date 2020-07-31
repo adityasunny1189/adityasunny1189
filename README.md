@@ -33,7 +33,7 @@ I am a second year Information Science student at Siddaganga Institute of Techno
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pathak-a26aa1173/)](https://www.linkedin.com/in/aditya-pathak-a26aa1173/)
 [![Gmail Badge](https://img.shields.io/badge/-Aditya-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityapathak1189@gmail.com)](mailto:adityapathak1189@gmail.com)
 
-![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityasunny1189&show_icons=true)
+![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=adityasunny1189&show_icons=true&theme=tokyonight)
 <!--
 **adityasunny1189/adityasunny1189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
