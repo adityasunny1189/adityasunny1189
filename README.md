@@ -33,9 +33,9 @@ I am a second year Information Science student at Siddaganga Institute of Techno
 2. Backend development using **Python Flask**
 3. Creating scalable cloud architecture using **AWS**
 4. Solving Data structure and algorithm questions in **C++**
-
+<!-- 
 ### 🔭 I’m currently working on ...
-**Flask** and **React** based Blogging Website
+**Flask** and **React** based Blogging Website -->
 
 ### 📫 How to reach me: ...
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pathak-a26aa1173/)](https://www.linkedin.com/in/aditya-pathak-a26aa1173/)
