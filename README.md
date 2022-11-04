@@ -29,8 +29,8 @@ I am a second year Information Science student at Siddaganga Institute of Techno
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-1. Front-end development using **React.js**
-2. Backend development using **Python Flask**
+1. Front-end development using **SvelteKit**
+2. Backend development using **Golang**
 3. Creating scalable cloud architecture using **AWS**
 4. Solving Data structure and algorithm questions in **C++**
 <!-- 
