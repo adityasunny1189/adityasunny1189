@@ -1,11 +1,13 @@
 <h2> <strong>Hi, this is <a href = "https://adityasunny1189.github.io/my-resume/">Aditya</a>!</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-I am a second year Information Science student at Siddaganga Institute of Technology with a prolonged history of working in the field of web development and algorithm. My field of interest's are web and competitive programming.
+Hello everyone! My name is Aditya Pathak and I am a full stack developer currently working at a fintech startup called Nuclei. I received my BE in Information Science from Siddaganga Institute of Technology in Tumkur, India. In my professional career, I have had the opportunity to work with a variety of programming languages, including Go, Python, Java, TypeScript, JavaScript and frontend frameworks like Svelte, SvelteKit. I am excited to continue learning and growing as a developer, and I look forward to connecting with others in the industry.
 
-### 🌱 I’m currently learning ...                                                         
+
+
+<!-- ### 🌱 I’m currently learning ...                                                         
   Machine Learning
-
+ -->
 
 
 
@@ -31,11 +33,11 @@ I am a second year Information Science student at Siddaganga Institute of Techno
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 1. Front-end development using **SvelteKit**
 2. Backend development using **Golang**
-3. Creating scalable cloud architecture using **AWS**
-4. Solving Data structure and algorithm questions in **C++**
-<!-- 
+<!-- 3. Creating scalable cloud architecture using **AWS** -->
+3. Solving Data structure and algorithm questions in **Golang**
+
 ### 🔭 I’m currently working on ...
-**Flask** and **React** based Blogging Website -->
+**Golang** and **Svelte** based no code tool to create websites in seconds
 
 ### 📫 How to reach me: ...
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-pathak-a26aa1173/)](https://www.linkedin.com/in/aditya-pathak-a26aa1173/)
