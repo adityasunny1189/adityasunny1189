@@ -33,7 +33,6 @@ Hello everyone! My name is Aditya Pathak and I am a full stack developer current
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 1. Front-end development using **SvelteKit**
 2. Backend development using **Golang**
-<!-- 3. Creating scalable cloud architecture using **AWS** -->
 3. Solving Data structure and algorithm questions in **Golang**
 
 ### 🔭 I’m currently working on ...
