@@ -1,4 +1,4 @@
-<h2> <strong>Hi, this is <a href = "https://adityasunny1189.github.io/my-resume/">Aditya</a>!</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> <strong>Hi, this is <a href = "https://aditya-portfolio-nu.vercel.app/">Aditya</a>!</strong> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 Hello everyone! My name is Aditya Pathak and I am a full stack developer currently working at a fintech startup called Nuclei. I received my BE in Information Science from Siddaganga Institute of Technology in Tumkur, India. In my professional career, I have had the opportunity to work with a variety of programming languages, including Go, Python, Java, TypeScript, JavaScript and frontend frameworks like Svelte, SvelteKit. I am excited to continue learning and growing as a developer, and I look forward to connecting with others in the industry.
